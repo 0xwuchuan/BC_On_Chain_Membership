@@ -6,7 +6,7 @@ contract NFSMembershipTraits {
         public
         pure
         returns (string memory)
-    {
+    { 
         string[10] memory backgrounds = [
             "", // Index 0 is empty
             "#141D48", // Dark Blue
